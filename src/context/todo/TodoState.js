@@ -6,9 +6,9 @@ import { ADD_TODO, REMOVE_TODO, UPDATE_TODO } from '../type'
 export const TodoState = ({children}) =>{
 const initialState = {
     todos: [
-        { id: '1', title: 'Выучить React Native' },
-        { id: '2', title: 'Выучить React ' },
-        { id: '3', title: 'Выучить React/Redux' }
+        { id: '1', title: 'Audi A4' },
+        { id: '2', title: 'BMW X5' },
+        { id: '3', title: 'Honda Pilot' }
     ]
 }
 
